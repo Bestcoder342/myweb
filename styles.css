@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"poppins",serif;
+}
+li{
+    float:right;
+}
+li a{
+    display:block;
+    color:gray;
+    text-align:center;
+    text-decoration:none;
+}
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:3px;
+    overflow:hidden;
+    background-color:yellow;
+    height:35px;
+}
+.content{
+    background-position-y: left bottom;
+    color:black;
+}
+.signin-modal{
+    border-style:solid;
+    border-color:black;
+    color:white;
+    background-color: blueviolet;
+    width:300px;
+}
+   
